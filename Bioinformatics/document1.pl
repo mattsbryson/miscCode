@@ -1,0 +1,3 @@
+print $rnaseq;
+
+$rnaseq;

@@ -1,0 +1,76 @@
+body {
+	font-family: Calibri, Verdana
+}
+
+code,pre {
+	font-family: Consolas, Courier;
+}
+
+table {
+	border-color: #757116;
+	border-collapse: collapse;
+}
+
+dd {
+	margin-left: 1em;
+}
+
+.TableHeadingColor {
+	background: #D9DB56;
+	color: #000000
+}
+
+.TableSubHeadingColor {
+	background: #AEBC21;
+	color: #000000
+}
+
+.TableRowColor {
+	background: #FFFFFF;
+	color: #000000
+}
+
+.FrameTitleFont {
+	font-size: 100%;
+	color: #000000
+}
+
+.FrameHeadingFont {
+	font-size: 90%;
+	color: #000000
+}
+
+.FrameItemFont {
+	font-size: 90%;
+	color: #000000
+}
+
+.NavBarCell1 {
+	background-color: #D9DB56;
+	padding: 0.1em;
+	color: #000000
+}
+
+.NavBarCell1Rev {
+	background-color: #757116;
+	color: #FFFFFF
+}
+
+.NavBarFont1 {
+	color: #000000;
+}
+
+.NavBarFont1Rev {
+	color: #FFFFFF;
+	color: #FFFFFF;
+}
+
+.NavBarCell2 {
+	background-color: #FFFFFF;
+	color: #000000
+}
+
+.NavBarCell3 {
+	background-color: #FFFFFF;
+	color: #000000
+}
